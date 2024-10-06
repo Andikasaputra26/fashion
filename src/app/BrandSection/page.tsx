@@ -1,4 +1,4 @@
-import Marquee from "@/components/Marquee";
+import Image from "next/image"; // Import Image from Next.js
 
 const BrandsSection = () => {
   const items = [
@@ -26,8 +26,8 @@ const BrandsSection = () => {
     <div className="bg-main py-10 mt-5">
       <div className="container mx-auto flex justify-center items-center">
         {items.map((item) => (
-          <div key={item.id} className="mx-4 flex justify-center">
-            <img
+          <div key={item.id} className="mx-4">
+            <Image
               src={item.img}
               alt={`Brand ${item.id}`}
               width={item.width}
