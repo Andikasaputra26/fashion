@@ -4,7 +4,7 @@ const BrandsSection = () => {
   const items = [
     {
       id: 1,
-      img: "/img/hm.png",
+      img: "/img/hnm.png",
       width: 120,
       height: 60,
     },
