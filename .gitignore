@@ -38,9 +38,6 @@ next-env.d.ts
 # Node.js modules
 node_modules/
 
-# Build output
-dist/
-build/
 
 # Environment variables
 .env
