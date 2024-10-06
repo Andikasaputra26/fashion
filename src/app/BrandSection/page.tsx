@@ -25,9 +25,17 @@ const BrandsSection = () => {
   return (
     <div className="bg-main py-10 mt-5">
       <div className="container mx-auto flex justify-center items-center">
-        {items.map((item) => {
-          return <div className="">{item.img}</div>;
-        })}
+        {items.map((item) => (
+          <div key={item.id} className="mx-4">
+            <img
+              src={item.img}
+              alt={`Brand ${item.id}`}
+              width={item.width}
+              height={item.height}
+              className="object-contain"
+            />
+          </div>
+        ))}
       </div>
     </div>
   );
