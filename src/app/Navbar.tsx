@@ -31,13 +31,7 @@ const Navbar = () => {
           className="focus:outline-none"
         >
           <span className="sr-only">Toggle menu</span>
-          {isOpen ? (
-            // Icon for 'Close' or any Menu component when the menu is open
-            <CircleX />
-          ) : (
-            // Icon for 'Menu' when the menu is closed
-            <Menu />
-          )}
+          {isOpen ? <CircleX /> : <Menu />}
         </button>
       </div>
 

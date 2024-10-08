@@ -26,13 +26,13 @@ const BrandsSection = () => {
     <div className="bg-main py-10 mt-5">
       <div className="container mx-auto flex justify-center items-center">
         {items.map((item) => (
-          <div key={item.id} className="mx-4">
+          <div key={item.id} className="mx-4 flex justify-center items-center">
             <Image
               src={item.img}
               alt={`Brand ${item.id}`}
-              width={item.width}
-              height={item.height}
-              className="object-contain"
+              width={120} // Set fixed width
+              height={60} // Set fixed height
+              className="object-contain w-32 h-16" // Set fixed width and height in TailwindCSS
             />
           </div>
         ))}
