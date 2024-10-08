@@ -19,10 +19,7 @@
     { "City Name": "Montalba" },
     { "City Name": "Mound City" },
     { "City Name": "Neches" },
-    { "City Name": "Palestine" },
-    { "City Name": "Palestine" },
-    { "City Name": "Palestine" },
-    { "City Name": "Palestine" },
+    { "City Name": "Palestine", "Image": "./img/PALESTINE.jpg" },
     { "City Name": "Pert" },
     { "City Name": "Redtown" },
     { "City Name": "Salmon" },
@@ -44,12 +41,11 @@
     { "City Name": "Central" },
     { "City Name": "Clawson" },
     { "City Name": "Diboll" },
-    { "City Name": "Diboll" },
     { "City Name": "Herty" },
     { "City Name": "Homer" },
     { "City Name": "Hudson" },
     { "City Name": "Huntington" },
-    { "City Name": "Lufkin" },
+    { "City Name": "Lufkin", "Image": "./img/LUFKIN.jpg" },
     { "City Name": "Moffitt" },
     { "City Name": "Pollok" },
     { "City Name": "Redland" },
@@ -307,7 +303,7 @@
     { "City Name": "Malta" },
     { "City Name": "Maud" },
     { "City Name": "Nash" },
-    { "City Name": "New Boston" },
+    { "City Name": "New Boston", "img": "./img/NEWBOSTON.jpg" },
     { "City Name": "Oak Grove" },
     { "City Name": "Old Boston" },
     { "City Name": "Old Salem" },
@@ -374,8 +370,7 @@
   ],
   "Brazos": [
     { "City Name": "Allenfarm" },
-    { "City Name": "Bryan" },
-    { "City Name": "Bryan" },
+    { "City Name": "Bryan", "img": "./img/BRYAN.jpg" },
     { "City Name": "Cawthon" },
     { "City Name": "College Station" },
     { "City Name": "Edge" },
@@ -640,32 +635,21 @@
     { "City Name": "Balch Springs" },
     { "City Name": "Carrollton" },
     { "City Name": "Cedar Hill" },
-    { "City Name": "Cedar Hill" },
     { "City Name": "Cockrell Hill" },
     { "City Name": "Coppell" },
     { "City Name": "Dallas" },
-    { "City Name": "Dallas" },
-    { "City Name": "DeSoto" },
     { "City Name": "DeSoto" },
     { "City Name": "Duncanville" },
     { "City Name": "Farmers Branch" },
     { "City Name": "Garland" },
-    { "City Name": "Garland" },
-    { "City Name": "Garland" },
-    { "City Name": "Garland" },
-    { "City Name": "Glenn Heights" },
     { "City Name": "Grand Prairie" },
     { "City Name": "Highland Park" },
     { "City Name": "Hutchins" },
     { "City Name": "Irving" },
     { "City Name": "Lancaster" },
-    { "City Name": "Lancaster" },
-    { "City Name": "Mesquite" },
     { "City Name": "Mesquite" },
     { "City Name": "Richardson" },
     { "City Name": "Rowlett" },
-    { "City Name": "Rowlett" },
-    { "City Name": "Sachse" },
     { "City Name": "Sachse" },
     { "City Name": "Sand Branch" },
     { "City Name": "Seagoville" },
@@ -718,7 +702,7 @@
   "Delta": [
     { "City Name": "Ben Franklin" },
     { "City Name": "Charleston" },
-    { "City Name": "Cooper" },
+    { "City Name": "Cooper", "img": "./img/COOPER.jpg" },
     { "City Name": "Enloe" },
     { "City Name": "Klondike" },
     { "City Name": "Lake Creek" },
@@ -1058,13 +1042,14 @@
     { "City Name": "Lakeview" },
     { "City Name": "Mount Vernon" },
     { "City Name": "Purley" },
-    { "City Name": "Scroggins" }
+    { "City Name": "Scroggins" },
+    { "img": "./img/FRANKLIN.jpg" }
   ],
   "Freestone": [
     { "City Name": "Cotton Gin" },
     { "City Name": "Dew" },
     { "City Name": "Donie" },
-    { "City Name": "Fairfield" },
+    { "City Name": "Fairfield", "img": "./img/FAIRFIELD.jpg" },
     { "City Name": "Freestone" },
     { "City Name": "Kirvin" },
     { "City Name": "Lanely" },
@@ -1326,8 +1311,7 @@
   ],
   "Hardin": [
     { "City Name": "Batson" },
-    { "City Name": "Beaumont" },
-    { "City Name": "Beaumont" },
+    { "City Name": "Beaumont", "img": "./img/BEAUMONT.jpg" },
     { "City Name": "Beauxart Gardens" },
     { "City Name": "Bevil Oaks" },
     { "City Name": "Central Gardens" },
@@ -1338,7 +1322,7 @@
     { "City Name": "Groves" },
     { "City Name": "Hamshire" },
     { "City Name": "Honey Island" },
-    { "City Name": "Kountze" },
+    { "City Name": "Kountze", "img": "./img/KOUNTZE.jpg" },
     { "City Name": "La Belle" },
     { "City Name": "Lumberton" },
     { "City Name": "Lumberton" },
@@ -1408,10 +1392,7 @@
     { "City Name": "Hockley" },
     { "City Name": "Houmont Park" },
     { "City Name": "Houmont Park" },
-    { "City Name": "Houston" },
-    { "City Name": "Houston" },
-    { "City Name": "Houston" },
-    { "City Name": "Huffman" },
+    { "City Name": "Houston", "img": "./img/HOUSTON.jpg" },
     { "City Name": "Huffman" },
     { "City Name": "Hufsmith" },
     { "City Name": "Hufsmith" },
@@ -1420,17 +1401,12 @@
     { "City Name": "Jacinto City" },
     { "City Name": "Jersey Village" },
     { "City Name": "Kingwood" },
-    { "City Name": "Kingwood" },
     { "City Name": "Kinwood" },
-    { "City Name": "Kinwood" },
-    { "City Name": "Klein" },
     { "City Name": "Klein" },
     { "City Name": "Kohrville" },
     { "City Name": "Kohrville" },
     { "City Name": "La Porte" },
     { "City Name": "Magnolia Garden" },
-    { "City Name": "Magnolia Garden" },
-    { "City Name": "McNair" },
     { "City Name": "McNair" },
     { "City Name": "Morgan's Point" },
     { "City Name": "Nassau Bay" },
@@ -1475,8 +1451,7 @@
     { "City Name": "Lansing" },
     { "City Name": "Leigh" },
     { "City Name": "Lotta" },
-    { "City Name": "Marshall" },
-    { "City Name": "Marshall" },
+    { "City Name": "Marshall", "img": "./img/MARSHALL.jpg" },
     { "City Name": "Morton" },
     { "City Name": "Nesbitt" },
     { "City Name": "Scottsville" },
@@ -1528,7 +1503,7 @@
     { "City Name": "Glazier" }
   ],
   "Henderson": [
-    { "City Name": "Athens" },
+    { "City Name": "Athens", "img": "./img/ATHENS.jpg" },
     { "City Name": "Berryville" },
     { "City Name": "Bethel" },
     { "City Name": "Brownsboro" },
@@ -1693,7 +1668,8 @@
     { "City Name": "Tira" },
     { "City Name": "Tira" },
     { "City Name": "Weaver" },
-    { "City Name": "Winnsboro" }
+    { "City Name": "Winnsboro" },
+    { "img": "./img/HOPKINS.jpg" }
   ],
   "Hounston": [
     { "City Name": "Alabama Creek" },
@@ -1706,7 +1682,7 @@
     { "City Name": "Berea" },
     { "City Name": "Centralia" },
     { "City Name": "Crecy" },
-    { "City Name": "Crockett" },
+    { "City Name": "Crockett", "img": "./img/CROCKETT.jpg" },
     { "City Name": "Enon" },
     { "City Name": "Fodice" },
     { "City Name": "Friday" },
@@ -1844,7 +1820,7 @@
     { "City Name": "Erin" },
     { "City Name": "Evadale" },
     { "City Name": "Holly Springs" },
-    { "City Name": "Jasper" },
+    { "City Name": "Jasper", "img": "./img/JASPER.jpg" },
     { "City Name": "Kirbyville" },
     { "City Name": "Magnolia Springs" },
     { "City Name": "Mount Union" },
@@ -2037,10 +2013,7 @@
     { "City Name": "Minter" },
     { "City Name": "Noble" },
     { "City Name": "Novice" },
-    { "City Name": "Paris" },
-    { "City Name": "Paris" },
-    { "City Name": "Paris" },
-    { "City Name": "Paris" },
+    { "City Name": "Paris", "img": "./img/PARIS.jpg" },
     { "City Name": "Pattonville" },
     { "City Name": "Petty" },
     { "City Name": "Powderly" },
@@ -2122,7 +2095,7 @@
   "Leon": [
     { "City Name": "Buffalo" },
     { "City Name": "Centerview" },
-    { "City Name": "Centerville" },
+    { "City Name": "Centerville", "img": "./img/CENTERVILLE.jpg" },
     { "City Name": "Concord" },
     { "City Name": "Corinth" },
     { "City Name": "Eunice" },
@@ -2156,8 +2129,7 @@
     { "City Name": "Hull" },
     { "City Name": "Kenefick" },
     { "City Name": "Kenefick" },
-    { "City Name": "Liberty" },
-    { "City Name": "Liberty" },
+    { "City Name": "Liberty", "img": "./img/KOUNTZE.jpg" },
     { "City Name": "Moss Bluff" },
     { "City Name": "Moss Hill" },
     { "City Name": "North Cleveland" },
@@ -2235,7 +2207,7 @@
     { "City Name": "Heckville" },
     { "City Name": "Hurlwood" },
     { "City Name": "Idalou" },
-    { "City Name": "Liberty" },
+    { "City Name": "Liberty", "img": "./img/KOUNTZE.jpg" },
     { "City Name": "Lubbock" },
     { "City Name": "New Deal" },
     { "City Name": "New Deal" },
@@ -2269,8 +2241,7 @@
     { "City Name": "Antioch" },
     { "City Name": "Cottonwood" },
     { "City Name": "Cross Roads" },
-    { "City Name": "Madisonville" },
-    { "City Name": "Madisonville" },
+    { "City Name": "Madisonville", "img": "./img/MADISONVILLE.jpg" },
     { "City Name": "Midway" },
     { "City Name": "North Zulch" }
   ],
@@ -2492,7 +2463,7 @@
   ],
   "Montgomery": [
     { "City Name": "Chateau Woods" },
-    { "City Name": "Conroe" },
+    { "City Name": "Conroe", "img": "./img/CONROE.jpg" },
     { "City Name": "Cut and Shoot" },
     { "City Name": "Dacus" },
     { "City Name": "Decker Prairie" },
@@ -2563,8 +2534,7 @@
     { "City Name": "Looneyville" },
     { "City Name": "Martinsville" },
     { "City Name": "Melrose" },
-    { "City Name": "Nacogdoches" },
-    { "City Name": "Nacogdoches" },
+    { "City Name": "Nacogdoches", "img": "./img/NACOGDOCHES.jpg" },
     { "City Name": "Nat" },
     { "City Name": "Oak Ridge" },
     { "City Name": "Pleasant Hill" },
@@ -2615,8 +2585,7 @@
     { "City Name": "Farrsville" },
     { "City Name": "Hartburg" },
     { "City Name": "Jamestown" },
-    { "City Name": "Liberty" },
-    { "City Name": "Newton" },
+    { "City Name": "Liberty", "img": "./img/KOUNTZE.jpg" },
     { "City Name": "Newton" },
     { "City Name": "Pine Grove" },
     { "City Name": "Quicksand" },
@@ -2801,7 +2770,8 @@
       "City Name": "Bethany"
     },
     {
-      "City Name": "Carthage"
+      "City Name": "Carthage",
+      "img": "./img/CARTHAGE.jpg"
     },
     {
       "City Name": "Clayton"
@@ -3043,7 +3013,8 @@
       "City Name": "Leggett"
     },
     {
-      "City Name": "Livingston"
+      "City Name": "Livingston",
+      "img": "./img/LIVINGSTON.jpg"
     },
     {
       "City Name": "Magnolia"
@@ -3231,7 +3202,8 @@
       "City Name": "Caney-Well"
     },
     {
-      "City Name": "Clarksville"
+      "City Name": "Clarksville",
+      "img": "./img/CLARKSVILLE.jpg"
     },
     {
       "City Name": "Cuthand"
@@ -3362,7 +3334,8 @@
       "City Name": "Easterly"
     },
     {
-      "City Name": "Franklin"
+      "City Name": "Franklin",
+      "img": "./img/FRANKLIN.jpg"
     },
     {
       "City Name": "Hearne"
@@ -3491,7 +3464,8 @@
       "City Name": "Fairview"
     },
     {
-      "City Name": "Henderson"
+      "City Name": "Henderson",
+      "img": "./img/HERDERSON.jpg"
     },
     {
       "City Name": "Jacobs"
@@ -3509,7 +3483,8 @@
       "City Name": "Leveretts Chapel"
     },
     {
-      "City Name": "Liberty"
+      "City Name": "Liberty",
+      "img": "./img/LIBERTY.jpg"
     },
     {
       "City Name": "London"
@@ -3579,7 +3554,8 @@
     },
     {
       "City Name": "Turnertown/Selman C"
-    }
+    },
+    { "img": "./img/RUSK.jpg" }
   ],
   "Sabine": [
     {
@@ -3783,7 +3759,8 @@
       "City Name": "Arcadia"
     },
     {
-      "City Name": "Center"
+      "City Name": "Center",
+      "img": "./img/CENTER.jpg"
     },
     {
       "City Name": "Choice"
@@ -3952,11 +3929,10 @@
       "City Name": "Troup"
     },
     {
-      "City Name": "Tyler"
+      "City Name": "Tyler",
+      "img": "./img/TYLER.jpg"
     },
-    {
-      "City Name": "Tyler"
-    },
+
     {
       "City Name": "Walnut Grove"
     },
@@ -4392,7 +4368,8 @@
     { "City Name": "Spurger" },
     { "City Name": "Town Bluff" },
     { "City Name": "Warren" },
-    { "City Name": "Woodville" }
+    { "City Name": "Woodville", "img": "./img/WOODVILLE.jpg" },
+    { "img": "./img/TYLER.jpg" }
   ],
   "Upton": [
     { "City Name": "McCamey" },
@@ -4470,8 +4447,7 @@
     { "City Name": "Country Campus" },
     { "City Name": "Crabbs Prairie" },
     { "City Name": "Dodge" },
-    { "City Name": "Huntsville" },
-    { "City Name": "Huntsville" },
+    { "City Name": "Huntsville", "img": "./img/HUNTSVILLE.jpg" },
     { "City Name": "New Waverly" },
     { "City Name": "Phelps" },
     { "City Name": "Riverside" }
@@ -4480,7 +4456,7 @@
     { "City Name": "Brookshire" },
     { "City Name": "Cedar Creek" },
     { "City Name": "Cedar Creek" },
-    { "City Name": "Hempstead" },
+    { "City Name": "Hempstead", "img": "./img/HEMPSTEAD.jpg" },
     { "City Name": "Howth" },
     { "City Name": "Howth" },
     { "City Name": "Monaville" },
@@ -4717,7 +4693,7 @@
     { "City Name": "Pine Mills" },
     { "City Name": "Pineview" },
     { "City Name": "Pleasant Grove" },
-    { "City Name": "Quitman" },
+    { "City Name": "Quitman", "img": "./img/QUITMAN.jpg" },
     { "City Name": "Stout" },
     { "City Name": "West Mineola" },
     { "City Name": "Yantis" },
