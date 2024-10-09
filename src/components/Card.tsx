@@ -2,7 +2,7 @@
 
 import React from "react";
 import ImageCard from "./ImageCard";
-import Image from "next/image";
+// import Image from "next/image";
 import { useState } from "react";
 
 import { MoveDown } from "lucide-react";
@@ -54,9 +54,11 @@ export default function Card() {
   return (
     <>
       <div className="container mx-auto mt-10">
-        <h1 className="text-4xl font-bold text-center mb-10">NEW ARRIVALS</h1>
+        <h1 className="z-25 text-4xl w-80 font-bold text-center mt-4  border-2 border-border text-black bg-white flex justify-center mx-auto p-4 rounded-md shadow tracking-wide -rotate-3">
+          NEW ARRIVALS
+        </h1>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 p-10">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 p-14">
           {itemCard.map((item, index) => (
             <motion.div
               key={index}
@@ -75,24 +77,10 @@ export default function Card() {
         </div>
       </div>
 
-      {/* <div className="pt-12">
-        <div className="bg-main max-w-full max-h-screen rounded-md">
-          <div className="flex items-center justify-center mx-auto p-6">
-            <Image
-              src="/img/woman.jpeg"
-              width={800}
-              height={968}
-              alt=""
-              className="object-cover rounded-lg"
-            />
-          </div>
-        </div>
-      </div> */}
-      <div className="overflow-x-clip">
-        <div className="flex-col">
-          <h1 className="z-20 max-w-xs w-full text-center mt-4 bg-black text-white flex justify-center mx-auto p-4 hover:scale-95 duration-100 hover:-translate-y-4 rounded-md animate-bounce">
-            Click Right is image and left is map
-            <MoveDown className="bg-blue-200 rounded-full" />
+      <div className="overflow-x-clip bg-main">
+        <div className="flex p-3">
+          <h1 className="z-25 text-4xl w-60 font-bold text-center mt-4  border-2 border-border text-black bg-white flex justify-center mx-auto p-4 rounded-md shadow tracking-wide -rotate-3">
+            FASHION
           </h1>
         </div>
         <motion.div
@@ -157,7 +145,7 @@ export default function Card() {
             }}
             className="flex w-full justify-center text-xl font-semibold md:text-4xl"
           >
-            <p className="rounded-2xl bg-white px-12 py-5 text-mainAccent">
+            <p className="rounded-2xl bg-white px-12 py-5 text-mainAccent mb-2">
               WOMAN FASHION
             </p>
           </motion.div>
